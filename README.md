@@ -4,6 +4,9 @@ A modern, responsive personal portfolio website built with HTML, CSS, JavaScript
 
 🔗 **Live Demo**: [View Website](https://aishwaryalakshmy.github.io/Modern-Portfolio-Website/)
 
+![Screenshot (142)](https://github.com/user-attachments/assets/7a8dab36-98e6-4c2c-aa40-7b1bb1d3dbc0)
+
+
 ---
 
 ## 🧰 Tech Stack
